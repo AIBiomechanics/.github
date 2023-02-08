@@ -6,4 +6,6 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_knit$set(root.dir = '../')
+```
 
+At AIBL, we are using data science approaches to help understand the relationships between human movement and musculoskeletal health. Please reach out for collaboration opportunities or further discussion.
