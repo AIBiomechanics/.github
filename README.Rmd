@@ -1,0 +1,9 @@
+---
+title: "University of Florida AI Biomechanics Laboratory"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = '../')
+
